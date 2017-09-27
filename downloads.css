@@ -1,0 +1,64 @@
+.header {
+    background-image: url("Images/bg3.jpg");
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.header h1 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+body {
+    padding-top: 200px;
+}
+
+th {
+    padding: 30px;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+.divider {
+    background-image: url("Images/bg4.jpg");
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+table {
+    margin-top: 20px;
+    color: white;
+    background-image: url("Images/bg5.jpg");
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.download-button {
+    cursor: pointer;
+    border: solid white 2px;
+    border-radius: 10px;
+
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#div2 {
+    margin-top: 540px;
+}
